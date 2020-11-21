@@ -555,9 +555,9 @@ model.rct(x)
 
 ### Feature importance in Gini PCA (factors loadings)
 
-* U-statitics > 2.57: significance of 1% 
-* U-statitics > 1.96: significance of 5% 
-* U-statitics > 1.65: significance of 10% 
+* U-statistics > 2.57: significance of 1% 
+* U-statistics > 1.96: significance of 5% 
+* U-statistics > 1.65: significance of 10% 
 
 
 ```python
@@ -574,9 +574,9 @@ model.u_stat(x)
 
 ### Feature importance in standard PCA (factors loadings)
 
-* U-statitics > 2.57: significance of 1% 
-* U-statitics > 1.96: significance of 5% 
-* U-statitics > 1.65: significance of 10% 
+* U-statistics > 2.57: significance of 1% 
+* U-statistics > 1.96: significance of 5% 
+* U-statistics > 1.65: significance of 10% 
 
 
 ```python
