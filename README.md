@@ -77,7 +77,7 @@ model.plot3D(x, y)
 ![png](output_14_0.png)
 
 
-### Absolute contributions (cos2) in %
+### Absolute contributions (like cos²) in %
 
 
 ```python
