@@ -1,9 +1,6 @@
 # Gini-PCA
-Robust L1 PCA based on the Gini metric 
+A. Charpentier, S. Mussard & T; Ouraga (2020)
 ***
-***
-
-# Gini PCA
 
 ### Gini PCA is a robust L1-norm PCA based on the generalized Gini index
 
