@@ -252,4 +252,4 @@ model.hotelling(x)
              1.29060536,  1.89142219,  0.84442019,  1.63349324,  0.38728275]))
 
 
-[S. Mussard](https://cv.archives-ouvertes.fr/stephane-mussard)
+[Stéphane Mussard CV_HAL](https://cv.archives-ouvertes.fr/stephane-mussard)
