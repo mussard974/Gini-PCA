@@ -171,7 +171,6 @@ model.u_stat_pca(x)
 
 
 
-[Stack Abuse](http://stackabuse.com)
 
 ### Hotelling T2 to detect outliers in the new subspace: component 1 & component 2
 
@@ -253,3 +252,4 @@ model.hotelling(x)
              1.29060536,  1.89142219,  0.84442019,  1.63349324,  0.38728275]))
 
 
+[S. Mussard](https://cv.archives-ouvertes.fr/stephane-mussard)
