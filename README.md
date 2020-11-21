@@ -39,7 +39,7 @@ iris = load_iris()
 x = iris.data
 ```
 
-### Run the model by setting your own Gini parameter in (0,10] and != 1
+### Run the model by setting your own Gini parameter >=0.1 and != 1
 
 
 ```python
