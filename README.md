@@ -11,8 +11,8 @@ A. Charpentier, S. Mussard & T. Ouraga (2020)
 In this package, we find:
 
   * Grid search for detecting and minimizing the influence of outliers 
-  * Absolute contributions of the observations (equivalent to cos²)
-  * Relative contributions of the observations
+  * Absolute contributions of the observations 
+  * Relative contributions of the observations (equivalent to cos²)
   * Feature importance of each variable (U-statistics test)
   * Feature importance of each variable in the standard PCA (U-statistics test)
   * Outlier detection using Hotelling T2 
