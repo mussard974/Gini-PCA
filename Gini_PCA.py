@@ -141,10 +141,7 @@ class GiniPca(object):
             GMD = self.gmd(Z)
             valp,_ = linalg.eig(GMD.T + GMD)
             eigen_val.append(np.abs(np.real(valp[:2].sum())/np.real(valp).sum() - valp_outlier[:2].sum()/np.real(valp_outlier).sum()))
-        if (np.argmin(np.asarray(eigen_val))+1)/10 == 1:
-            self.gini_param = (np.argmin(np.asarray(eigen_val))+1)/10 + 0.1
-        else:
-            self.gini_param = (np.argmin(np.asarray(eigen_val))+1)/10
+        self.gini_param = (np.argmin(np.asarray(eigen_val))+1)/10 + 1
         return self.gini_param
 
     def hotelling(self, x):
